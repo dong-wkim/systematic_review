@@ -1,0 +1,41 @@
+.
+├── ./data_collection/
+│   ├── ./data_collection/template
+│   ├── ./data_collection/example
+│   ├── ./data_collection/src
+│   └── ./data_collection/doc
+├── ./deduplication/
+│   ├── ./deduplication/template
+│   ├── ./deduplication/example
+│   ├── ./deduplication/src
+│   └── ./deduplication/doc
+├── ./manuscript_writing/
+│   ├── ./manuscript_writing/template
+│   ├── ./manuscript_writing/example
+│   ├── ./manuscript_writing/src
+│   └── ./manuscript_writing/doc
+├── ./meta-analysis/
+│   ├── ./meta-analysis/template
+│   ├── ./meta-analysis/example
+│   ├── ./meta-analysis/src
+│   └── ./meta-analysis/doc
+├── ./protocol/
+│   ├── ./protocol/template
+│   ├── ./protocol/example
+│   ├── ./protocol/src
+│   └── ./protocol/doc
+├── ./screening/
+│   ├── ./screening/template
+│   ├── ./screening/example
+│   ├── ./screening/src
+│   └── ./screening/doc
+├── ./search/
+│   ├── ./search/template
+│   ├── ./search/example
+│   ├── ./search/src
+│   └── ./search/doc
+└── ./search_strategy/
+    ├── ./search_strategy/template
+    ├── ./search_strategy/example
+    ├── ./search_strategy/src
+    └── ./search_strategy/doc
