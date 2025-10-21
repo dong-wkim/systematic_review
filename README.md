@@ -71,10 +71,10 @@
 <!-- 4 ABOUT THE PROJECT -->
 ## About the Project
 
-[![SR/MA][logo3]][https://github.com/dong-wkim/systematic_review]
-
-[logo3]: images/logo3.png
-
+ <a href="https://github.com/dong-wkim/systematic_review">
+    <img src="images/logo3.png" alt="Logo" width="80" height="80">
+  </a>
+  
 This repository will function as a cloud storage for an on-going SR/MA project as well as a template/guide for future, more efficient workflow using knowledge from data science, and programming.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
