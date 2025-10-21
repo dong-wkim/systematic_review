@@ -1,5 +1,5 @@
 <a id="readme-top"></a>
-<!-- PROJECT SHIELDS -->
+<!-- 1 PROJECT SHIELDS -->
 
 [![Research Gate][rg-shield]][rg-url]
 [![Open Science Framework][osf-shield]][osf-url]
@@ -9,7 +9,7 @@
 [osf-shield]: https://img.shields.io/badge/OSF-white
 [osf-url]: https://osf.io/eynx9/overview
 
-<!-- PROJECT LOGO -->
+<!-- 2 PROJECT LOGO -->
 
 <br />
 <div align="center">
@@ -36,11 +36,44 @@
   </p>
 </div>
 
-
+<!-- 3 TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
 # Systematic Review and Meta-Analysis
 
+<!-- 4 ABOUT THE PROJECT -->
+## About the Project
+
+[![SR/MA][logo3]][https://github.com/dong-wkim/systematic_review]
+
+[logo3]: images/logo3.png
+
 This repository will function as a cloud storage for an on-going SR/MA project as well as a template/guide for future, more efficient workflow using knowledge from data science, and programming.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Comments/notes:
 
