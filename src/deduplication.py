@@ -38,7 +38,7 @@ def deduplicate(df, cols):
     df_deduplicated.to_csv(output_file_name, index = False)
     df_removed.to_csv(output_file_name.replace('.csv', '_removed.csv'), index = False)
 
-    
+
     return results, df_deduplicated, df_kept, df_removed, output_file_name, prisma_file_name
 
 if __name__ == "__main__":

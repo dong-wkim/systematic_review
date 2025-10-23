@@ -1,0 +1,9 @@
+# hello.* matches any file or directory starting with hello..
+# foo/ matches a directory named foo and all paths underneath it.
+# **/foo matches foo in any directory
+# abc/** matches all files inside the abc directory with infinite depth.
+
+.vs/
+.ipynb_checkpoints/
+.*/
+
