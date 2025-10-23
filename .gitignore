@@ -3,7 +3,6 @@
 # **/foo matches foo in any directory
 # abc/** matches all files inside the abc directory with infinite depth.
 
-.vs/
-.ipynb_checkpoints/
+.vs
+.ipynb_checkpoints
 .*/
-
