@@ -4,7 +4,7 @@
 # abc/** matches all files inside the abc directory with infinite depth.
 
 .vs/
-.ipynb_checkpoints/
+.ipynb_checkpoints*
 sync.ps1
 master.docx
 **.docx
@@ -12,6 +12,5 @@ master.docx
 issues/
 .git
 docs/
-data/
 
 
